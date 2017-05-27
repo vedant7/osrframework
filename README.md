@@ -11,13 +11,14 @@ Copyright (C) 2014-2017  F. Brezo and Y. Rubio, i3visio
 1 - Description
 ---------------
 
-OSRFramework is a GNU AGPLv3+ set of libraries developed by i3visio to perform
-Open Source Intelligence tasks. They include references to a bunch of different
-applications related to username checking, DNS lookups, information leaks
-research, deep web search, regular expressions extraction and many others.
-At the same time, by means of ad-hoc Maltego transforms, OSRFramework provides
-a way of making these queries graphically as well as several interfaces to
-interact with like OSRFConsole or a Web interface.
+OSRFramework is a GNU AGPLv3+ set of libraries modularly developed by (i3visio)
+Yaiza Rubio and Félix Brezo to perform Open Source Intelligence tasks. In the
+framework, the authors include a series of applications related to username
+checking, DNS lookups, social media research, regular expressions extraction and
+many others. At the same time, by means of ad-hoc Maltego transforms,
+OSRFramework provides a way of making these queries graphically as well as
+including other interfaces to interact with it using the command line and a web
+server.
 
 2 - License: GNU AGPLv3+
 ------------------------
